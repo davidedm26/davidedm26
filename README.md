@@ -1,4 +1,5 @@
-## Hi there 👋
+## Davide Di Matteo (he/him)
+AI Engineer | MSc Student in Computer Engineering
 
 <!--
 **davidedm26/davidedm26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
